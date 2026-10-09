@@ -1,0 +1,2 @@
+requests>=2.31,<3
+duckdb>=1.1,<2
