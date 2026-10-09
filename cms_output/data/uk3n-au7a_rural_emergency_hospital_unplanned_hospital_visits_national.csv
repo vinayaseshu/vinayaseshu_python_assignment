@@ -1,0 +1,2 @@
+measure_id,measure_name,national_rate,number_of_hospitals_worse,number_of_hospitals_same,number_of_hospitals_better,number_of_hospitals_too_few,footnote,start_date,end_date
+REH_OP_36,Ratio of unplanned hospital visits after hospital outpatient surgery,Not Available,0,2,0,4,5,01/01/2024,12/31/2024

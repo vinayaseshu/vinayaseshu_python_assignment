@@ -1,0 +1,113 @@
+state,measure_id,measure_name,score,footnote,start_date,end_date
+AK,OP_10,Abdomen CT Use of Contrast Material,4.2,,07/01/2024,06/30/2025
+AK,OP_39,Breast Cancer Screening Recall Rates,6.8,,07/01/2024,06/30/2025
+AL,OP_10,Abdomen CT Use of Contrast Material,9.5,,07/01/2024,06/30/2025
+AL,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+AR,OP_10,Abdomen CT Use of Contrast Material,7.9,,07/01/2024,06/30/2025
+AR,OP_39,Breast Cancer Screening Recall Rates,8.1,,07/01/2024,06/30/2025
+AS,OP_10,Abdomen CT Use of Contrast Material,Not Available,5,07/01/2024,06/30/2025
+AS,OP_39,Breast Cancer Screening Recall Rates,Not Available,5,07/01/2024,06/30/2025
+AZ,OP_10,Abdomen CT Use of Contrast Material,3.8,,07/01/2024,06/30/2025
+AZ,OP_39,Breast Cancer Screening Recall Rates,7.4,,07/01/2024,06/30/2025
+CA,OP_10,Abdomen CT Use of Contrast Material,5.8,,07/01/2024,06/30/2025
+CA,OP_39,Breast Cancer Screening Recall Rates,9.6,,07/01/2024,06/30/2025
+CO,OP_10,Abdomen CT Use of Contrast Material,4.9,,07/01/2024,06/30/2025
+CO,OP_39,Breast Cancer Screening Recall Rates,8.7,,07/01/2024,06/30/2025
+CT,OP_10,Abdomen CT Use of Contrast Material,3.3,,07/01/2024,06/30/2025
+CT,OP_39,Breast Cancer Screening Recall Rates,28.9,,07/01/2024,06/30/2025
+DC,OP_10,Abdomen CT Use of Contrast Material,5,,07/01/2024,06/30/2025
+DC,OP_39,Breast Cancer Screening Recall Rates,6.1,,07/01/2024,06/30/2025
+DE,OP_10,Abdomen CT Use of Contrast Material,3.6,,07/01/2024,06/30/2025
+DE,OP_39,Breast Cancer Screening Recall Rates,6.7,,07/01/2024,06/30/2025
+FL,OP_10,Abdomen CT Use of Contrast Material,5.1,,07/01/2024,06/30/2025
+FL,OP_39,Breast Cancer Screening Recall Rates,15.8,,07/01/2024,06/30/2025
+GA,OP_10,Abdomen CT Use of Contrast Material,5.9,,07/01/2024,06/30/2025
+GA,OP_39,Breast Cancer Screening Recall Rates,7.6,,07/01/2024,06/30/2025
+GU,OP_10,Abdomen CT Use of Contrast Material,Not Available,5,07/01/2024,06/30/2025
+GU,OP_39,Breast Cancer Screening Recall Rates,Not Available,5,07/01/2024,06/30/2025
+HI,OP_10,Abdomen CT Use of Contrast Material,4.9,,07/01/2024,06/30/2025
+HI,OP_39,Breast Cancer Screening Recall Rates,6.1,,07/01/2024,06/30/2025
+IA,OP_10,Abdomen CT Use of Contrast Material,4.6,,07/01/2024,06/30/2025
+IA,OP_39,Breast Cancer Screening Recall Rates,7.2,,07/01/2024,06/30/2025
+ID,OP_10,Abdomen CT Use of Contrast Material,5.8,,07/01/2024,06/30/2025
+ID,OP_39,Breast Cancer Screening Recall Rates,5.8,,07/01/2024,06/30/2025
+IL,OP_10,Abdomen CT Use of Contrast Material,6.4,,07/01/2024,06/30/2025
+IL,OP_39,Breast Cancer Screening Recall Rates,9.7,,07/01/2024,06/30/2025
+IN,OP_10,Abdomen CT Use of Contrast Material,6,,07/01/2024,06/30/2025
+IN,OP_39,Breast Cancer Screening Recall Rates,6.7,,07/01/2024,06/30/2025
+KS,OP_10,Abdomen CT Use of Contrast Material,7.4,,07/01/2024,06/30/2025
+KS,OP_39,Breast Cancer Screening Recall Rates,7.2,,07/01/2024,06/30/2025
+KY,OP_10,Abdomen CT Use of Contrast Material,7.7,,07/01/2024,06/30/2025
+KY,OP_39,Breast Cancer Screening Recall Rates,6.6,,07/01/2024,06/30/2025
+LA,OP_10,Abdomen CT Use of Contrast Material,11.3,,07/01/2024,06/30/2025
+LA,OP_39,Breast Cancer Screening Recall Rates,7,,07/01/2024,06/30/2025
+MA,OP_10,Abdomen CT Use of Contrast Material,4.5,,07/01/2024,06/30/2025
+MA,OP_39,Breast Cancer Screening Recall Rates,6.8,,07/01/2024,06/30/2025
+MD,OP_10,Abdomen CT Use of Contrast Material,1.5,,07/01/2024,06/30/2025
+MD,OP_39,Breast Cancer Screening Recall Rates,7.7,,07/01/2024,06/30/2025
+ME,OP_10,Abdomen CT Use of Contrast Material,4.1,,07/01/2024,06/30/2025
+ME,OP_39,Breast Cancer Screening Recall Rates,6.6,,07/01/2024,06/30/2025
+MI,OP_10,Abdomen CT Use of Contrast Material,6,,07/01/2024,06/30/2025
+MI,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+MN,OP_10,Abdomen CT Use of Contrast Material,4.1,,07/01/2024,06/30/2025
+MN,OP_39,Breast Cancer Screening Recall Rates,6,,07/01/2024,06/30/2025
+MO,OP_10,Abdomen CT Use of Contrast Material,4.9,,07/01/2024,06/30/2025
+MO,OP_39,Breast Cancer Screening Recall Rates,6.6,,07/01/2024,06/30/2025
+MP,OP_10,Abdomen CT Use of Contrast Material,Not Available,5,07/01/2024,06/30/2025
+MP,OP_39,Breast Cancer Screening Recall Rates,Not Available,5,07/01/2024,06/30/2025
+MS,OP_10,Abdomen CT Use of Contrast Material,8.2,,07/01/2024,06/30/2025
+MS,OP_39,Breast Cancer Screening Recall Rates,7.2,,07/01/2024,06/30/2025
+MT,OP_10,Abdomen CT Use of Contrast Material,6.6,,07/01/2024,06/30/2025
+MT,OP_39,Breast Cancer Screening Recall Rates,7.1,,07/01/2024,06/30/2025
+NC,OP_10,Abdomen CT Use of Contrast Material,5.3,,07/01/2024,06/30/2025
+NC,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+ND,OP_10,Abdomen CT Use of Contrast Material,6.9,,07/01/2024,06/30/2025
+ND,OP_39,Breast Cancer Screening Recall Rates,6.3,,07/01/2024,06/30/2025
+NE,OP_10,Abdomen CT Use of Contrast Material,7.3,,07/01/2024,06/30/2025
+NE,OP_39,Breast Cancer Screening Recall Rates,7.2,,07/01/2024,06/30/2025
+NH,OP_10,Abdomen CT Use of Contrast Material,4.1,,07/01/2024,06/30/2025
+NH,OP_39,Breast Cancer Screening Recall Rates,6.5,,07/01/2024,06/30/2025
+NJ,OP_10,Abdomen CT Use of Contrast Material,3.2,,07/01/2024,06/30/2025
+NJ,OP_39,Breast Cancer Screening Recall Rates,23.6,,07/01/2024,06/30/2025
+NM,OP_10,Abdomen CT Use of Contrast Material,6.5,,07/01/2024,06/30/2025
+NM,OP_39,Breast Cancer Screening Recall Rates,7.6,,07/01/2024,06/30/2025
+NV,OP_10,Abdomen CT Use of Contrast Material,4.4,,07/01/2024,06/30/2025
+NV,OP_39,Breast Cancer Screening Recall Rates,7.3,,07/01/2024,06/30/2025
+NY,OP_10,Abdomen CT Use of Contrast Material,5.1,,07/01/2024,06/30/2025
+NY,OP_39,Breast Cancer Screening Recall Rates,30.5,,07/01/2024,06/30/2025
+OH,OP_10,Abdomen CT Use of Contrast Material,4.8,,07/01/2024,06/30/2025
+OH,OP_39,Breast Cancer Screening Recall Rates,7.3,,07/01/2024,06/30/2025
+OK,OP_10,Abdomen CT Use of Contrast Material,7.5,,07/01/2024,06/30/2025
+OK,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+OR,OP_10,Abdomen CT Use of Contrast Material,7.1,,07/01/2024,06/30/2025
+OR,OP_39,Breast Cancer Screening Recall Rates,6.9,,07/01/2024,06/30/2025
+PA,OP_10,Abdomen CT Use of Contrast Material,6.1,,07/01/2024,06/30/2025
+PA,OP_39,Breast Cancer Screening Recall Rates,8.6,,07/01/2024,06/30/2025
+PR,OP_10,Abdomen CT Use of Contrast Material,8.6,,07/01/2024,06/30/2025
+PR,OP_39,Breast Cancer Screening Recall Rates,72.1,,07/01/2024,06/30/2025
+RI,OP_10,Abdomen CT Use of Contrast Material,4.3,,07/01/2024,06/30/2025
+RI,OP_39,Breast Cancer Screening Recall Rates,9.3,,07/01/2024,06/30/2025
+SC,OP_10,Abdomen CT Use of Contrast Material,6.8,,07/01/2024,06/30/2025
+SC,OP_39,Breast Cancer Screening Recall Rates,6.5,,07/01/2024,06/30/2025
+SD,OP_10,Abdomen CT Use of Contrast Material,6.3,,07/01/2024,06/30/2025
+SD,OP_39,Breast Cancer Screening Recall Rates,7,,07/01/2024,06/30/2025
+TN,OP_10,Abdomen CT Use of Contrast Material,5.9,,07/01/2024,06/30/2025
+TN,OP_39,Breast Cancer Screening Recall Rates,6,,07/01/2024,06/30/2025
+TX,OP_10,Abdomen CT Use of Contrast Material,8,,07/01/2024,06/30/2025
+TX,OP_39,Breast Cancer Screening Recall Rates,7.6,,07/01/2024,06/30/2025
+UT,OP_10,Abdomen CT Use of Contrast Material,5.2,,07/01/2024,06/30/2025
+UT,OP_39,Breast Cancer Screening Recall Rates,5.7,,07/01/2024,06/30/2025
+VA,OP_10,Abdomen CT Use of Contrast Material,4.8,,07/01/2024,06/30/2025
+VA,OP_39,Breast Cancer Screening Recall Rates,6.9,,07/01/2024,06/30/2025
+VI,OP_10,Abdomen CT Use of Contrast Material,Not Available,5,07/01/2024,06/30/2025
+VI,OP_39,Breast Cancer Screening Recall Rates,Not Available,5,07/01/2024,06/30/2025
+VT,OP_10,Abdomen CT Use of Contrast Material,4.5,,07/01/2024,06/30/2025
+VT,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+WA,OP_10,Abdomen CT Use of Contrast Material,5.2,,07/01/2024,06/30/2025
+WA,OP_39,Breast Cancer Screening Recall Rates,5.7,,07/01/2024,06/30/2025
+WI,OP_10,Abdomen CT Use of Contrast Material,4.7,,07/01/2024,06/30/2025
+WI,OP_39,Breast Cancer Screening Recall Rates,5.5,,07/01/2024,06/30/2025
+WV,OP_10,Abdomen CT Use of Contrast Material,7.2,,07/01/2024,06/30/2025
+WV,OP_39,Breast Cancer Screening Recall Rates,7.5,,07/01/2024,06/30/2025
+WY,OP_10,Abdomen CT Use of Contrast Material,5.7,,07/01/2024,06/30/2025
+WY,OP_39,Breast Cancer Screening Recall Rates,7.9,,07/01/2024,06/30/2025

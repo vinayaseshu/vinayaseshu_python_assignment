@@ -1,0 +1,5 @@
+measure_id,measure_description,national_rate,better,no_different,worse,too_small,start_date,end_date
+PCH-30,Admissions for Patients Receiving Outpatient Chemotherapy,Not Available,Not Available,Not Available,Not Available,Not Available,07/01/2024,06/30/2025
+PCH-31,Emergency Department (ED) Visits for Patients Receiving Outpatient Chemotherapy,Not Available,Not Available,Not Available,Not Available,Not Available,07/01/2024,06/30/2025
+PCH-36,30-Day Unplanned Readmission for Cancer Patients,22.1,2,7,2,0,10/01/2023,09/30/2024
+PCH-37,Surgical treatment complications for localized prostate cancer,50.1,Not Applicable,Not Applicable,Not Applicable,Not Applicable,07/01/2023,06/30/2024

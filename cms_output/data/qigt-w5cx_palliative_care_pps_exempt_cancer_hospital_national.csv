@@ -1,0 +1,5 @@
+measure_id,measure_description,national_rate,start_date,end_date
+PCH-32,Proportion of patients who died from cancer receiving chemotherapy in the last 14 days of life,4.7,07/01/2024,06/30/2025
+PCH-33,Proportion of patients who died from cancer admitted to the ICU in the last 30 days of life,34.4,07/01/2024,06/30/2025
+PCH-34,Proportion of patients who died from cancer not admitted to hospice,36.5,07/01/2024,06/30/2025
+PCH-35,Proportion of patients who died from cancer admitted to hospice for less than 3 days,25.8,07/01/2024,06/30/2025
